@@ -1,5 +1,5 @@
-#HOTEL MANAGEMENT
-This repository contains the code for a Restaurant Management System. The system includes functionality for managing restaurants, as well as for user authentication and authorization.
+# HOTEL MANAGEMENT
+* This repository contains the code for a Restaurant Management System. The system includes functionality for managing restaurants, as well as for user authentication and authorization.
 
 The restaurant management system is a web-based application that uses Spring Boot. It helps streamline restaurant data management and provides an easy-to-use interface for restaurant managers to manage food item details and other information. The application also allows restaurants to view and update their personal details
 
